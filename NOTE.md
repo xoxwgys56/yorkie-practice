@@ -58,3 +58,10 @@ ok  	github.com/yorkie-team/yorkie/yorkie/rpc	2.606s
 ```
 
 looks like need testcase
+
+---
+
+## other
+
+- [crdt is future](https://news.hada.io/topic?id=2962)
+- [how to figma use crdt](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
