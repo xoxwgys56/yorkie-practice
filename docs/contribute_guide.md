@@ -14,4 +14,10 @@ see detail on `CONTRIBUTE.md`. your `PR` must validated by **check** **list**. a
 
 ### check issue
 
-check issued which labeled `first issue`.
+- check issued which labeled `first issue`.
+- follow below test
+   - unittest
+   - integrate test
+   - stress test
+
+
