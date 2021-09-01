@@ -4,7 +4,7 @@ follow [this video](https://www.youtube.com/watch?v=BCfXRlaQSQc)
 
 ## Usage
 
-```shell
+```sh
 # init submodule first
 git submodule init
 git submodule update --recursive --remote --merge
