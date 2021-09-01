@@ -61,7 +61,14 @@ looks like need testcase
 
 ---
 
-## other
+## more ref
 
 - [crdt is future](https://news.hada.io/topic?id=2962)
 - [how to figma use crdt](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
+
+## TODO
+
+design document is hard to read. need to read priority.  
+I started with about [gc-for-text-type](https://github.com/yorkie-team/yorkie/blob/main/design/gc-for-text-type.md)
+
+- [design doc](https://github.com/yorkie-team/yorkie/tree/main/design)
