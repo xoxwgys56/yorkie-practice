@@ -2,6 +2,8 @@
 
 ## issue
 
+>아래의 모든 이슈는 `QEMU` 에러를 포함하고 있다. 이들은 모두 `m1` 실리콘 애플 칩에서 발생하는 `QEMU` 에러이다.
+
 한번에 수많은 개행을 넣으면서 입력했더니 아래와 같은 오류가 발생하면서 프로그램이 멈췄다.
 
 ```bash
@@ -29,3 +31,6 @@ qemu: uncaught target signal 11 (Segmentation fault) - core dumped
 ## 궁금한거
 
 - `envoy` 로깅을 하는 곳.
+
+
+`js-sdk`가 `envoy`다.
